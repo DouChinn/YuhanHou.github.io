@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: ABOUT
 permalink: /
 subtitle: <a href='https://www.gatech.edu/'>Georgia Institute of Technology</a>.
 
